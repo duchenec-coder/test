@@ -1,8 +1,7 @@
 # test
 
 <<<<<<< HEAD
-kfhcukc
-bonjour
+Bonjour à tous
 =======
-My name is Clement Duchene
+Aujourd'hui, je vais vous raconter le déroulement de la Guerre des Deux-Roses
 >>>>>>> test2
