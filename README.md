@@ -1,8 +1,7 @@
 # test
 dyrxoylucukcgul
 <<<<<<< HEAD
-kfhcukc
-bonjour
+Hello everybody
 =======
 kfhcukc
 >>>>>>> test2
