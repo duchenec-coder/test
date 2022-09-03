@@ -11,3 +11,8 @@ Elle commence en 1455 *This text is italicized*
 vfyufvuyvgu
 ===
 
+<<<<<<< HEAD
+=======
+hello"Beat sader"
+Cette évolution de mon fichier doit être commitée sur la branche EvolutionDuReadme
+>>>>>>> EvolutionDuReadme
