@@ -14,10 +14,9 @@ vfyufvuyvgu
 
 
 Modification à porter sur Master
-<<<<<<< HEAD
-=======
 
 Premier commit sur EvolReadme4
->>>>>>> EvolReadme4
 
 Nouvelle evolution sur Master
+
+Premier commit sur EvolReadme5
