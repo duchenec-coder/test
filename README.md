@@ -5,10 +5,10 @@ Bonjour à tous
 ===
 Aujourd'hui, je vais vous raconter le déroulement de la Guerre des Deux-Roses 
 
-*This text is italicized* Elle commence en 1455 
+ *Elle commence en 1455*
 
->>Et se termine en 1485
-vfyufvuyvgu
+>>**Et se termine en 1485**
+
 ===
 
 
